@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Training_Live.Listed.java&apos; to &apos;TernaryOperator.java&apos;&#x0A;- Original project: &apos;IntenshalaTrainings&apos;&#x0A;- Original element: &apos;Training_Live.Listed.java&apos;&#x0A;- Renamed element: &apos;Training_Live.TernaryOperator.java&apos;" description="Rename compilation unit &apos;Listed.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Training_Live{Listed.java" name="TernaryOperator.java" references="false" stamp="1667306450733" version="1.0"/>
+</session>

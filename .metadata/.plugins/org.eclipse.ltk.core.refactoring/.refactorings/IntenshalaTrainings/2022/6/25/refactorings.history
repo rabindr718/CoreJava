@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.intenshala.javapp&apos; to &apos;com.intenshala.javaapp&apos;&#x0A;- Original project: &apos;IntenshalaTrainings&apos;&#x0A;- Original element: &apos;IntenshalaTrainings/src/com.intenshala.javapp&apos;&#x0A;- Renamed element: &apos;IntenshalaTrainings/src/com.intenshala.javaapp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.intenshala.javapp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.intenshala.javapp" name="com.intenshala.javaapp" qualified="false" references="true" stamp="1655575529534" textual="false" version="1.0"/>
+</session>

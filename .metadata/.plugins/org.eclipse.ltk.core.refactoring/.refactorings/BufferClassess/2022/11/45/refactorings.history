@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;StringExample&apos; to &apos;ReverseInteger&apos;&#x0A;- Original project: &apos;BufferReaderMethod&apos;&#x0A;- Original element: &apos;StringExample&apos;&#x0A;- Renamed element: &apos;ReverseInteger&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StringExample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{StringExample.java[StringExample" matchStrategy="1" name="ReverseInteger" qualified="false" references="true" similarDeclarations="false" stamp="1667658460695" textual="false" version="1.0"/>
+</session>
