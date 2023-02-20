@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;DoWhile.java&apos; to &apos;ConditionalLoops_Lecture4/src&apos;&#x0A;- Original project: &apos;Conditional_Operators&apos;&#x0A;- Destination element: &apos;ConditionalLoops_Lecture4/src&apos;&#x0A;- Original element: &apos;DoWhile.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=ConditionalLoops_Lecture4/src" element1="/src&lt;{DoWhile.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1666271185106" units="1" version="1.0"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;playfaircipher.java&apos; to &apos;PlayfairCipher.java&apos;&#x0A;- Original project: &apos;InformationSecurity&apos;&#x0A;- Original element: &apos;playfaircipher.java&apos;&#x0A;- Renamed element: &apos;PlayfairCipher.java&apos;" description="Rename compilation unit &apos;playfaircipher.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{playfaircipher.java" name="PlayfairCipher.java" references="false" stamp="1659674255115" version="1.0"/>
-</session>

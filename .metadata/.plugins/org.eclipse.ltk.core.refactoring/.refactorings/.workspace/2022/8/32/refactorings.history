@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;Important_In_Java&apos; to &apos;CallByValue&apos;&#x0A;- Original element: &apos;Important_In_Java&apos;&#x0A;- Renamed element: &apos;Important_In_Java&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Important_In_Java&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Important_In_Java" name="CallByValue" references="true" stamp="1659797567380" version="1.0"/>
-</session>

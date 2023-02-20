@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;Algorithm1&apos; to &apos;MultipleSortMethodWithReverseOrder&apos;&#x0A;- Original project: &apos;SORTING_ALGORITHM&apos;&#x0A;- Original element: &apos;Algorithm1&apos;&#x0A;- Renamed element: &apos;MultipleSortMethodWithReverseOrder&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Algorithm1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Algorithm1.java[Algorithm1" matchStrategy="1" name="MultipleSortMethodWithReverseOrder" qualified="false" references="true" similarDeclarations="false" stamp="1671625465312" textual="false" version="1.0"/>
-</session>

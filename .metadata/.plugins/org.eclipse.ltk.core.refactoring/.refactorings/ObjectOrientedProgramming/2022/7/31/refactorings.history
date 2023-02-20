@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;MCSsGetParameter&apos; to &apos;UnlimitedLove&apos;&#x0A;- Original project: &apos;ObjectOrientedProgramming&apos;&#x0A;- Original element: &apos;MCSsGetParameter&apos;&#x0A;- Renamed element: &apos;UnlimitedLove&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MCSsGetParameter&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{MCSsGetParameter.java[MCSsGetParameter" matchStrategy="1" name="UnlimitedLove" qualified="false" references="true" similarDeclarations="false" stamp="1659217239264" textual="false" version="1.0"/>
-</session>
